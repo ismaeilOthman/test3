@@ -4,3 +4,10 @@ git remote add origin https://github.com/ismaeilOthman/test3
 
 git branch -M main
 git push -u origin main
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}
+
